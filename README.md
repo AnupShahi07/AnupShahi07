@@ -53,7 +53,6 @@
 ## <div align="center">💝 Thank you for visiting my profile!</div>
 
 <h1 align="center"><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjllZnBha3VtdHIxeXltemU4czEwYWl0cGt6czl1M3VlYXNpbmZ1NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DBPF1cNxSwrziGneX7/giphy.gif" width="80" alt="gif" /> Made with ❤️ by Anup Shahi</h1>
-🎵 Background Music  
-[▶️ Play Song](https://raw.githubusercontent.com/AnupShahi07/AnupShahi07/main/blue.mp3)
-
-
+<audio controls>
+  <source src="https://github.com/AnupShahi07/AnupShahi07/blob/main/blue.mp3?raw=1" type="audio/mpeg">
+</audio>
